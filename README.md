@@ -1,6 +1,6 @@
 ## 🚀 Next Steps
 
-1. ❌ **Update repository name to `pradee.github.io`** (Current: `Pradee.github.in`)
+1. ❌ **Update repository name to `pradee.github.io`** (Current: `Pradee.github.io`)
 2. **Update [`config.json`](https://github.com/pradee555/Pradee.github.in/blob/main/config.json)** with your personal information, experience, and projects and then run [this workflow](https://github.com/pradee555/Pradee.github.in/actions/workflows/update-readme.yml) to update the README
 3. **Replace assets** in the [`assets/`](https://github.com/pradee555/Pradee.github.in/tree/main/assets/) folder with your own logos and project images
 4. **Add "featured" topic** to [GitHub repositories](https://github.com/pradee555?tab=repositories) you want to showcase
